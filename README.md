@@ -44,9 +44,8 @@ keepify/
 ├── requirements.txt          # Dependencies
 ├── README.md                 # You are here
 ├── .gitignore
-└── outputs/
-    ├── confusion_matrix.png  # Model evaluation plot
-    └── feature_importance.png # Top churn drivers
+└── outputs
+    
 ```
 
 ---
@@ -91,7 +90,7 @@ Raw Data → Clean → Encode → Scale → Split → Train → Evaluate → Vis
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/keepify.git
+git clone https://github.com/MAHEK1113/keepify.git
 cd keepify
 ```
 
